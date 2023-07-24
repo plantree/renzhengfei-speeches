@@ -1,5 +1,5 @@
 # 在消费者BG业务汇报及骨干座谈会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2017/10/在消费者BG业务汇报及骨干座谈会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在消费者BG业务汇报及骨干座谈会上的讲话.md">
 
 
 2017年10月24日（深圳）、10月27日（北京）、11月2日（上海）

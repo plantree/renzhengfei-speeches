@@ -1,5 +1,5 @@
 # IPD的本质是从机会到商业变现
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2016/08/IPD的本质是从机会到商业变现.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/IPD的本质是从机会到商业变现.md">
 
 
 ——任正非在华为公司IPD建设蓝血十杰暨优秀XDT颁奖大会的讲话

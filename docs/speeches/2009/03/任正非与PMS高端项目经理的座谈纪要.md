@@ -1,5 +1,5 @@
 # 与PMS高端项目经理的座谈纪要
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2009/03/任正非与PMS高端项目经理的座谈纪要.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/任正非与PMS高端项目经理的座谈纪要.md">
 
 
 2009年03月27日

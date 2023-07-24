@@ -1,5 +1,5 @@
 # 在GTS网规网优业务座谈会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2013/11/在GTS网规网优业务座谈会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在GTS网规网优业务座谈会上的讲话.md">
 
 
 2013年11月5日

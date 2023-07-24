@@ -1,5 +1,5 @@
 # 在人工智能应用GTS研讨会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2017/01/在人工智能应用GTS研讨会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在人工智能应用GTS研讨会上的讲话.md">
 
 
 2017年1月7日

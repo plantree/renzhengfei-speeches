@@ -1,5 +1,5 @@
 # 在质量与流程IT管理部员工座谈会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2016/10/在质量与流程IT管理部员工座谈会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在质量与流程IT管理部员工座谈会上的讲话.md">
 
 
 2016年10月26日

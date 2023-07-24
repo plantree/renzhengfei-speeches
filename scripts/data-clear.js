@@ -7,6 +7,11 @@ const inputDir = 'archive/RenZhengfei-master';
 const outputDir = 'docs/speeches';
 const pattern = new RegExp('([0-9]+)');
 
+function removePunctuation(str) {
+  const punctuationRegex = /[，。！？【】、《》：；“”‘’（）【】！@#￥……&*\[\]\/,!?<>:;"'{}()=_`~$%^&*+|]+/g;
+  return str.replace(punctuationRegex, '');
+}
+
 function deleteFolderContents(folderPath) {
   fs.readdirSync(folderPath).forEach((file) => {
     const filePath = path.join(folderPath, file);
@@ -36,6 +41,7 @@ function parseDirectory(inputDir, outputDir) {
             let originFile = f;
             f = f.replace('_', '');
             f = f.replace(' ', '');
+            f = removePunctuation(f);
             const date = parseFileName(f);
             let article = f.slice(date.length);
             article = article.replace('_', '，');

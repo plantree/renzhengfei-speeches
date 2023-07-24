@@ -1,5 +1,5 @@
 # 依托欧美先进软件包构建高质量的IT系统
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2014/12/依托欧美先进软件包构建高质量的IT系统.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/依托欧美先进软件包构建高质量的IT系统.md">
 
 
 ——任正非在质量与流程IT管理部工作汇报会上的讲话

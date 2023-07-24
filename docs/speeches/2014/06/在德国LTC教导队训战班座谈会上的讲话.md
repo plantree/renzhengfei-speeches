@@ -1,5 +1,5 @@
 # 在德国LTC教导队训战班座谈会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2014/06/在德国LTC教导队训战班座谈会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在德国LTC教导队训战班座谈会上的讲话.md">
 
 
 2014年6月5日

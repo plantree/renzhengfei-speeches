@@ -1,5 +1,5 @@
 # 在GTS人工智能实践进展汇报会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2017/08/任总在GTS人工智能实践进展汇报会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/任总在GTS人工智能实践进展汇报会上的讲话.md">
 
 
 2017年8月29日

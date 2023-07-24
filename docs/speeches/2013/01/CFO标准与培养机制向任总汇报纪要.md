@@ -1,5 +1,5 @@
 # CFO标准与培养机制向任总汇报纪要
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2013/01/CFO标准与培养机制向任总汇报纪要.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/CFO标准与培养机制向任总汇报纪要.md">
 
 
 

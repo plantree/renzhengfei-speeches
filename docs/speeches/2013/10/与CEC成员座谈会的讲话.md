@@ -1,5 +1,5 @@
 # 与CEC成员座谈会的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2013/10/与CEC成员座谈会的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/与CEC成员座谈会的讲话.md">
 
 
 2013年10月31日

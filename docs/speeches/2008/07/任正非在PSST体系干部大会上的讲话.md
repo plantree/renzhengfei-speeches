@@ -1,5 +1,5 @@
 # 在PSST体系干部大会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2008/07/任正非在PSST体系干部大会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/任正非在PSST体系干部大会上的讲话.md">
 
 
 2008年7月5日

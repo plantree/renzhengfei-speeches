@@ -1,5 +1,5 @@
 # 在落实日落法及清理机关说NO工作组、合同场景师推动小组座谈会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2017/12/在落实日落法及清理机关说NO.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在落实日落法及清理机关说NO.md">
 
 
 2017年12月18日

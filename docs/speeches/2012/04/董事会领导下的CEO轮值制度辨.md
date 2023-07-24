@@ -1,5 +1,5 @@
 # 董事会领导下的CEO轮值制度辨
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2012/04/董事会领导下的CEO轮值制度辨.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/董事会领导下的CEO轮值制度辨.md">
 
 
 2012年04月23日

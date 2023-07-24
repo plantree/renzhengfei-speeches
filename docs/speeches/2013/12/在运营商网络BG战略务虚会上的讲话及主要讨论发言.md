@@ -1,5 +1,5 @@
 # 在运营商网络BG战略务虚会上的讲话及主要讨论发言
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2013/12/在运营商网络BG战略务虚会上的讲话及主要讨论发言.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在运营商网络BG战略务虚会上的讲话及主要讨论发言.md">
 
 
  2013年12月28日-29日

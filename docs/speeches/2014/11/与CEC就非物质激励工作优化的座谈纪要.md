@@ -1,5 +1,5 @@
 # 与CEC就非物质激励工作优化的座谈纪要
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/2014/11/与CEC就非物质激励工作优化的座谈纪要.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/与CEC就非物质激励工作优化的座谈纪要.md">
 
 
 2014年11月4日

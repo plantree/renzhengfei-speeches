@@ -1,5 +1,5 @@
 # 在IPD动员大会上的讲话
-<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/./docs/speeches/1999/04/在IPD动员大会上的讲话.md">
+<img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在IPD动员大会上的讲话.md">
 
 
 1999年4月17日
