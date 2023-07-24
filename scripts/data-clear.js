@@ -14,6 +14,9 @@ function removePunctuation(str) {
 
 function deleteFolderContents(folderPath) {
   fs.readdirSync(folderPath).forEach((file) => {
+    if (file.endsWith('/md')) {
+        continue;
+    }
     const filePath = path.join(folderPath, file);
     if (fs.lstatSync(filePath).isDirectory()) {
       deleteFolderContents(filePath);
