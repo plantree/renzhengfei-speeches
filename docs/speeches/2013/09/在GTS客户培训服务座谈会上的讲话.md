@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在GTS客户培训服务座谈会上的讲话.md">
 
 
+
 2013年9月4日
 
 

@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/任正非与IFS项目组及财经体系员工座谈纪要.md">
 
 
+
 2009年2月6日
 
 

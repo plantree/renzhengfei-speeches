@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/z改善和媒体的关系.md">
 
 
+
 ——任正非与孙亚芳、徐直军[1]、郭平、公共关系、品牌部、媒体关系、终端公司、党委相关人员座谈纪要
 2010年11月25日
 

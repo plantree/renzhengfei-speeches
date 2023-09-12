@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在GTS站点信息库地理信息库网络动态运行信息库和集成交付平台建设汇报会上的讲话.md">
 
 
+
 2015年9月28日
 
 

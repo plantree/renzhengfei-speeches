@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/加快CFO队伍建设支撑IFS推行落地.md">
 
 
+
 ——IFS推行向任总专题汇报纪要
 2009年11月27日
 

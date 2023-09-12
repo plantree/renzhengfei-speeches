@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/与BCG顾问交流会谈纪要.md">
 
 
+
 2015年5月6日
 
 

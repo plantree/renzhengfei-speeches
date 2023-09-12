@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在EMT办公例会上的讲话.md">
 
 
+
 ——任正非在公司组织变革计划、进展和高阶方案汇报会上的讲话
 2013年11月29日
 

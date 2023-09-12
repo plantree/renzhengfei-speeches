@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在BT系统部英国代表处汇报会上的讲话.md">
 
 
+
 2006年12月14日
 
 

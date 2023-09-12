@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/围绕客户PO打通支撑回款收入项目预核算.md">
 
 
+
 ——IFS项目向任总专题汇报纪要
 2008年12月29日
 

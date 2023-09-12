@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/与CEC成员座谈会的讲话.md">
 
 
+
 2013年10月31日
 
 

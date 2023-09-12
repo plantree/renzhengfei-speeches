@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/客户需求导向提升公司E2E系统竞争力.md">
 
 
+
 ——任正非在产品配置E2E项目汇报会上的讲话
 2017年3月16日
 

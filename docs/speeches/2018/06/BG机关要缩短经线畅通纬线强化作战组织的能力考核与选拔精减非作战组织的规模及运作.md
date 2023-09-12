@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/BG机关要缩短经线畅通纬线强化作战组织的能力考核与选拔精减非作战组织的规模及运作.md">
 
 
+
 ——任正非在“从定位和职责出发，持续优化运营商BG机关组织和规模”汇报会上的讲话
 2018年6月22日
 

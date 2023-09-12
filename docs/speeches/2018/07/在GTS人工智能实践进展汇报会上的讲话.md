@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在GTS人工智能实践进展汇报会上的讲话.md">
 
 
+
 2018年7月18日
 
 

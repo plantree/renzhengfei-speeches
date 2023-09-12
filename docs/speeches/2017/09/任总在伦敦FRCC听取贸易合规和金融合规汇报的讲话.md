@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/任总在伦敦FRCC听取贸易合规和金融合规汇报的讲话.md">
 
 
+
 2017年9月13日
 
 

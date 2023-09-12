@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/依托欧美先进软件包构建高质量的IT系统.md">
 
 
+
 ——任正非在质量与流程IT管理部工作汇报会上的讲话
 2014年12月18日、2015年1月6日
 

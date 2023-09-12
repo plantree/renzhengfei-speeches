@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在EMT例会08年公司业务计划与预算汇报上的讲话.md">
 
 
+
 2008年1月31日
 
 

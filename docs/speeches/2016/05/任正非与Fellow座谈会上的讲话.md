@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/任正非与Fellow座谈会上的讲话.md">
 
 
+
 2016年5月5日、6日、17日、18日
 
 

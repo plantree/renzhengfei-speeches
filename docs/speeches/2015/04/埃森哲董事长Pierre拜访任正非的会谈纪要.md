@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/埃森哲董事长Pierre拜访任正非的会谈纪要.md">
 
 
+
 2015年4月8日
 
 

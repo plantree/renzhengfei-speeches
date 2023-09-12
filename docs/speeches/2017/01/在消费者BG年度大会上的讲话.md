@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/在消费者BG年度大会上的讲话.md">
 
 
+
  2017年1月17日
 
 

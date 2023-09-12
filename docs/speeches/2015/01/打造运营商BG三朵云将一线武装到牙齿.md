@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/打造运营商BG三朵云将一线武装到牙齿.md">
 
 
+
 ——任正非在运营商BG营销装备建设思路汇报会上的讲话
 2015年1月9日
 

@@ -2,6 +2,7 @@
 <img class="pv" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=plantree.me&key=renzhengfei-speeches/CFO要走向流程化和职业化支撑公司及时准确优质低成本交付.md">
 
 
+
 ——任正非与后备干部总队CFO班座谈纪要
 2009年10月26日
 
